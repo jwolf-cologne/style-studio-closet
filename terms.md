@@ -25,5 +25,5 @@ Some features may require an internet connection and may change over time.
 For questions, contact:
 
 Jens Wolf  
-Email: style-studio-support@jenswolf.dev
+Email: jens.wolf2@gmail.com
 

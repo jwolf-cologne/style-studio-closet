@@ -4,7 +4,7 @@ Need help with Style Studio?
 
 ## Contact
 
-Email: style-studio-support@jenswolf.dev
+Email: jens.wolf2@gmail.com
 
 Please include:
 

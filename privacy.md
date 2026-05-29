@@ -52,7 +52,7 @@ Style Studio is not intended for children under 13.
 For privacy questions, contact:
 
 Jens Wolf  
-Email: style-studio-support@jenswolf.dev
+Email: jens.wolf2@gmail.com
 
 ## Changes
 
