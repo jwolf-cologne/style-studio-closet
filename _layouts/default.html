@@ -10,12 +10,15 @@
   <body>
     <main class="page-shell">
       <section class="hero">
-        <div class="hero__media" aria-hidden="true"></div>
+        <img
+          class="hero__image"
+          src="{{ '/assets/images/intro-hero.png' | relative_url }}"
+          alt="A stylish woman standing in a warm closet room"
+          width="941"
+          height="1672"
+        >
         <div class="hero__overlay" aria-hidden="true"></div>
-        <div class="hero__topline">
-          <img src="{{ '/assets/images/app-icon.png' | relative_url }}" alt="" class="app-icon">
-          <span>Style Studio Closet</span>
-        </div>
+        <div class="hero__topline">Style Studio Closet</div>
         <h1>{{ page.hero_title | default: page.title | default: site.title }}</h1>
         <p>{{ page.hero_subtitle | default: "A digital wardrobe, outfit planner, and AI styling companion for iPhone and iPad." }}</p>
       </section>
