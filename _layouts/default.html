@@ -10,11 +10,11 @@
   <body>
     <main class="page-shell">
       <section class="hero">
-        <div class="hero__mark">Style Studio Closet</div>
-        <div class="hero__art" aria-hidden="true">
-          <span class="tile tile--one">Closet</span>
-          <span class="tile tile--two">Looks</span>
-          <span class="tile tile--three">AI</span>
+        <div class="hero__media" aria-hidden="true"></div>
+        <div class="hero__overlay" aria-hidden="true"></div>
+        <div class="hero__topline">
+          <img src="{{ '/assets/images/app-icon.png' | relative_url }}" alt="" class="app-icon">
+          <span>Style Studio Closet</span>
         </div>
         <h1>{{ page.hero_title | default: page.title | default: site.title }}</h1>
         <p>{{ page.hero_subtitle | default: "A digital wardrobe, outfit planner, and AI styling companion for iPhone and iPad." }}</p>
@@ -33,4 +33,3 @@
     </main>
   </body>
 </html>
-
