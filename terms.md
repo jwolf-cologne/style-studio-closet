@@ -1,12 +1,19 @@
-# Terms of Use for Style Studio
+---
+layout: default
+title: Terms of Use
+hero_title: Terms of Use
+hero_subtitle: Basic terms for using Style Studio Closet and its optional AI features.
+---
+
+# Terms of Use for Style Studio Closet
 
 Effective date: May 29, 2026
 
-Style Studio is provided as a wardrobe, outfit planning, and optional AI styling app.
+Style Studio Closet is provided as a wardrobe, outfit planning, and optional AI styling app.
 
 ## Subscriptions
 
-Style Studio may offer optional paid subscriptions through Apple in-app purchases. Subscriptions are managed through your Apple ID and can be cancelled in your Apple account settings.
+Style Studio Closet may offer optional paid subscriptions through Apple in-app purchases. Subscriptions are managed through your Apple ID and can be cancelled in your Apple account settings.
 
 ## AI Results
 
@@ -26,4 +33,3 @@ For questions, contact:
 
 Jens Wolf  
 Email: jens.wolf2@gmail.com
-

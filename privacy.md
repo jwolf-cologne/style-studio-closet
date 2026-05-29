@@ -1,12 +1,19 @@
-# Privacy Policy for Style Studio
+---
+layout: default
+title: Privacy Policy
+hero_title: Privacy Policy
+hero_subtitle: How Style Studio Closet handles wardrobe, photo, purchase, and optional AI feature data.
+---
+
+# Privacy Policy for Style Studio Closet
 
 Effective date: May 29, 2026
 
-Style Studio is designed as a personal wardrobe and outfit-planning app. This Privacy Policy explains what information the app uses and how it is handled.
+Style Studio Closet is designed as a personal wardrobe and outfit-planning app. This Privacy Policy explains what information the app uses and how it is handled.
 
 ## Data Stored on Your Device
 
-Style Studio may store the following information locally on your device:
+Style Studio Closet may store the following information locally on your device:
 
 - clothing item photos
 - item names, categories, colors, brands, materials, seasons, notes, and tags
@@ -31,21 +38,21 @@ AI requests are only made when you use an AI-powered feature. The app does not u
 
 ## Purchases
 
-Style Studio uses Apple's StoreKit for in-app purchases and subscription status. Apple processes purchases directly. Style Studio does not receive or store your full payment information.
+Style Studio Closet uses Apple's StoreKit for in-app purchases and subscription status. Apple processes purchases directly. Style Studio Closet does not receive or store your full payment information.
 
 ## Camera and Photo Library
 
-Style Studio may request access to your camera or photo library so you can add clothing items or style selfies. Photos are used for the feature you selected.
+Style Studio Closet may request access to your camera or photo library so you can add clothing items or style selfies. Photos are used for the feature you selected.
 
 ## Data Sharing
 
-Style Studio does not sell your personal data.
+Style Studio Closet does not sell your personal data.
 
 Data may be processed by technical service providers only when needed to provide app functionality, such as Apple services for purchases or AI/backend services for optional AI features.
 
 ## Children
 
-Style Studio is not intended for children under 13.
+Style Studio Closet is not intended for children under 13.
 
 ## Contact
 
@@ -56,5 +63,4 @@ Email: jens.wolf2@gmail.com
 
 ## Changes
 
-This Privacy Policy may be updated as Style Studio evolves. The latest version will be available at this page.
-
+This Privacy Policy may be updated as Style Studio Closet evolves. The latest version will be available at this page.

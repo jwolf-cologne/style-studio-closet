@@ -1,6 +1,13 @@
-# Style Studio Support
+---
+layout: default
+title: Support
+hero_title: Support
+hero_subtitle: Help for Style Studio Closet purchases, photos, and AI features.
+---
 
-Need help with Style Studio?
+# Style Studio Closet Support
+
+Need help with Style Studio Closet?
 
 ## Contact
 
@@ -25,5 +32,4 @@ AI features require an internet connection and may be unavailable if the backend
 
 ### Photos
 
-If camera or photo access is not working, check iOS Settings > Privacy & Security > Camera or Photos and make sure Style Studio has permission.
-
+If camera or photo access is not working, check iOS Settings > Privacy & Security > Camera or Photos and make sure Style Studio Closet has permission.
